@@ -8,7 +8,7 @@ Por último, tienes que realizar una búsqueda de un alumno por nombre y mostrar
 '''
 import sqlite3
 from alumno import Alumno
-import funcionedb as db
+import funcionesdb as db
 
 
 
